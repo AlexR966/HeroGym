@@ -1,0 +1,73 @@
+body {
+    background-image: url(image/fitness-594143_1920.jpg);
+    background-attachment: scroll;
+}
+#container
+{
+    height: 780px;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    border: 2px solid red;
+    margin-top: 80px;
+    border-radius: 25px;
+    opacity: 0.9;
+    background-color: rgb(229, 233, 233);
+    letter-spacing: 2px;
+    
+}
+#header
+{
+    color: red;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    font-weight: 300;
+    padding: 10px;
+    text-shadow: 2px 2px black;
+}
+.text
+{
+    color:black;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+}
+#style
+{
+    border: 1px solid red;
+    width: 94%;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+#form1
+{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.pay
+{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+}
+#submit:hover
+{
+    background-color: red;
+}
+#submit
+{
+    height: 50px;
+    width:100px;
+    border: 2px solid red;
+    background-color: black;
+    border-radius: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    color: white;
+}
+#fname , #lname , #date
+{
+    border: 2px solid red;
+    height: 25px;
+    border-radius:5px;
+}
